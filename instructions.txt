@@ -1,0 +1,6 @@
+To run the script, do the below steps:
+1. Download the Stanford Parser from http://nlp.stanford.edu/software/lex-parser.shtml#Download and extract it in the same directory.
+2. Rename the folder generated in step 1 to "stanford-parser-full".
+3. Write the sentences to be tested into the file "input.txt" (each on a new line). Some sentences are already present as an example.
+4. Run the script using "python detector.py"
+5. The results are written into the file "results.txt" (Noun-Noun metaphors are detected)
